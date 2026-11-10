@@ -186,7 +186,7 @@ covid19-socioeconomic-analysis/
 - `outputs/figures/` – Selected visualisations exported from the notebook, where available.
 - `requirements.txt` – Python dependencies required to reproduce the analysis.
 
-*The structure above is the recommended repository structure. Ensure the folders and files are uploaded with the same names before publishing the repository.*
+
 
 ## 7. Reproducing the Analysis
 
