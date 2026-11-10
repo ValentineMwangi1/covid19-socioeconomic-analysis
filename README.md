@@ -41,7 +41,7 @@ The dataset includes variables used to examine differences between countries, de
 
 Before reproducing the analysis, users should obtain the original dataset from its verified source and ensure that the file name and column structure are consistent with the notebook.
 
-*Note: The dataset's original publisher, collection methodology, reporting period and licence should be verified and documented before redistribution or public sharing.*
+
 
 ## 4. Analytical Workflow and Methodology
 
@@ -322,7 +322,7 @@ Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 **Areas of interest:** Statistical Modelling, Data Science, Quantitative Research, Applied Statistics and Data Analytics.
 
 - **LinkedIn:** https://www.linkedin.com/in/valentine-njeri-966444256
-- **GitHub:** [https://github.com/ValentineMwangi1]
+- **GitHub:** https://github.com/ValentineMwangi1
 
 ---
 
