@@ -39,8 +39,6 @@ The dataset includes variables used to examine differences between countries, de
 
 **Unit of analysis:** Country-level observations.
 
-Before reproducing the analysis, users should obtain the original dataset from its verified source and ensure that the file name and column structure are consistent with the notebook.
-
 
 
 ## 4. Analytical Workflow and Methodology
